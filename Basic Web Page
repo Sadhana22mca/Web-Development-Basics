@@ -1,0 +1,604 @@
+ <!DOCTYPE html>
+  <html> 
+  <title> Final WT exam </title>
+  <head> 
+  <style>
+
+.header
+{
+width:99.3%;
+height:100px;
+background-color:lightblue;
+color:black;
+position: relative;
+text-align: center;
+padding: 0px 4px 4px 4px;
+
+}
+.header h6 {
+  margin: 0px;
+}
+.nav
+{
+    display:inline-block;
+    padding:0px;
+    margin:0px;
+  width:100%;
+  height:70px;
+  background-color:silver;
+}
+.nav ul
+{
+    list-style-type:none;
+    line-height:50px;
+margin:5px 100px 5px 120px;
+                padding:5px 80px 5px 30px;
+                overflow:auto;
+}
+.nav ul li
+{
+text-align:center;
+    float:center; 
+display:inline-block;
+}
+.nav ul li a
+{
+    color:lightgreen;
+    background-color:white;
+    font-size:20px;
+    padding:10px 20px;
+    text-decoration: none;
+    text-align:center;
+}
+.nav ul li a:visited
+{
+    color:white;
+    background-color:hotpink;
+}
+.nav ul li a:hover
+{
+    color:black;
+    background-color:lightpink;
+}
+.nav ul li a:active
+{
+    color:coral;
+    background-color:teal;
+}
+.content1
+{
+ background-color:#F5F5F5;  
+ color-black;
+ width:30%;
+ height: 500px;
+ float:left;
+}
+.content2
+{
+
+ background-color:black;  
+ color-white;
+ width:70%;
+  height: 500px;
+ float:left;
+}
+.content1 p{
+    padding:30px;
+}
+.content2 p{
+    padding:2px;
+}
+.footer
+{
+  text-align: center;
+    padding: 20px;
+    width:100%;
+height: 25%;
+    background-color:black;
+    color:turquoise;
+}
+.content2 h6{
+     padding:10px 20px;
+    text-size:50px;
+    text-align:center;
+    color:white;
+    
+}
+.dp
+{
+width:96.8%;
+height:400px;
+padding:10px 20px 10px 20px;
+
+color:black;
+font-size:22px;
+opacity:0.7;
+background-image: linear-gradient(white,pink,lightpink);
+}
+}
+
+.video-back {
+width:100%
+margin:10px;
+ 
+}
+
+.footer p, h1 {
+  margin: 0;
+  padding: 0;
+}
+.footer:hover {
+  color: hotpink;
+}
+
+.footer
+{
+    display:inline-block;
+  padding:0px;
+  margin:0px;
+width:100%;
+height:190px;
+background-color:black;
+color:blue;
+}
+.footer ul
+{
+    list-style-type:none;
+    line-height:50px;
+}
+.footer ul li
+{
+    
+display:inline;
+}
+
+.footer #z::first-letter
+            {
+                color:;
+                background-color:;
+                font-size:large;
+            }
+            .footer #z::first-line
+            {
+                color:hotpink;
+                background-color:;
+                font-size:large;
+            }
+.footer #z::selection
+            {
+                color:hotpink;
+                background-color:;
+            }
+            .footer #z
+            {
+                
+            background-color:#eeeeee;
+            width:95%;
+            height:50%;
+            border:4px solid pink;
+            padding-top:40px;
+            padding-bottom:12px;
+            padding-left:12px;
+            padding right:12px;
+        
+            }
+.aligncenter{
+    margin: 10px auto 20px;
+    display: block;
+}
+.footer{
+  display:inline-block;
+  padding:0px;
+  margin:0px;
+}
+.content2
+{
+background-image:url("img4.jpg");
+}
+.content1
+{
+background-image:url("img5.jfif");
+}
+.video-back
+{
+padding:27px 5px 45px 5px;
+height:320px;
+ background-image: linear-gradient(to bottom right,#d0efff,purple,hotpink,red);
+}
+.fin
+{
+
+  background-image: url('laptop.png');
+  background-repeat: no-repeat;
+
+width:100%;
+height:800px;
+background-color:white;
+}
+
+.para
+{
+width:98.4%;
+height:364px;
+background-color:lightpink;
+font-size:22px;
+padding:8px 5px 2px 15px;
+letter-spacing:5px;
+    text-indent:6cm;
+word-spacing:10px;
+}
+color:black;
+padding:20px 40px 20px 40px;
+font-size:33px;
+
+}
+
+
+
+.ltr
+{
+width:100%;
+height:95px;
+background-color:#03254c;
+color:#03254c;
+background-image:url('blue.jpg');
+}
+.img img:hover
+{
+
+ border: 8px solid red;
+opacity:0.4;
+}
+
+.hover:hover
+{
+background-color:lightblue;
+color:blue;
+padding-left:10px;
+}
+.link:hover
+{
+background-color:lightpink;
+color:red;
+text-decoration:none;
+}
+.laptop
+{
+ background-image: url('lappic.jpg');
+  background-repeat: no-repeat;
+width:100%;
+height:730px;
+background-color:white;
+}
+.audio
+{
+width:100%;
+height:150px;
+background-image: linear-gradient(lightblue,skyblue,powderblue,turquoise);
+}
+.content2 img:hover
+{
+ border: 8px solid blue;
+opacity:0.2;
+}
+.content2 img
+{
+border: 3px solid red;
+}
+</style>
+
+<body>
+     <div class = "header"> 
+      
+      <h6 style="font-size:60px;colo:black;text-align:center;padding:14px 10px;"><b>CHRIST UNIVERSITY</b></h6></div>
+
+      <div class = "nav">
+      <ul>
+        <li>
+        <a href="https://www.christuniversity.in/">ABOUT US</a>
+        <a href="https://www.christuniversity.in/">COMPANIES</a>
+        <a href="https://www.christuniversity.in/">RESEARCH</a>
+        <a href="https://www.christuniversity.in/">STUDENT LIFE</a>
+        <a href="https://www.christuniversity.in/">STUDENT REGISTRATION</a>
+        </li>
+      </ul> 
+  </div>
+<div class="fin">
+
+</div>
+<div class="para">
+
+<p>CHRIST (Deemed to be University), a premier educational institution, is an academic fraternity of individuals dedicated to the motto of 'EXCELLENCE AND SERVICE.'
+
+We strive to reach out to the star of perfection through an earnest academic pursuit for 'excellence,' and our efforts blossom into 'service' through our creative and empathetic involvement in the society to transform it."CHRIST (Deemed to be University) is a nurturing ground for an individual's holistic development to make an effective contribution to the society in a dynamic environment."Education prepares one to face the challenges of life by bringing out the best in him/her. If this is well accepted, education should be relevant to the needs of the time and address the problems of the day. Being inspired by Blessed Kuriakose Elias Chavara, the founder of Carmelites of Mary Immaculate and the pioneer in innovative education, CHRIST (Deemed to be University) was proactive to define and redefine its mission and strategies reading the signs of the time.</p>
+</div>
+<hr>
+<div class="ltr">
+<marquee style="font-size:50px;color:silver;background-color:#03254c;">WELCOME TO CHRIST UNIVERSITY WEBSITE!</marquee>
+</div>
+<hr>
+  <div class="content1">
+<center>
+<h5 style="color:black;font-size:20px;"><u>CLICK LINKS BELOW:</u></h5>
+
+ <span style="text-align:center;text-decoration:none;font-size:35px;"><a href="https://christuniversity.in/gallery"><span class="link">CHRIST ALUMINI</span></a></span>  <br><br />
+       <span style="text-align:center;text-decoration:none;font-size:35px;"><a href="https://christuniversity.in/gallery"><span class="link">CHRIST ACADEMICS</span></a></span>
+<center>
+      <center>
+	<table border="2">
+	<caption style="background-color:skyblue;font-size:20px;">PLACEMENT STATISTICS:</span></caption>
+<br>
+
+	<br />
+	<br />
+	<tr>
+		<th>YEAR</th>
+		<th>STUDENTS PLACED</th>
+		<th>COMPANY</th>
+	</tr>
+	<tr>
+		<td> 2015</td>
+		<td> <center>35</center></td>
+		<td>BOSCH</td>
+	</tr>
+	<tr>
+		<td>2016</td>
+		<td> <center>40</center></td>
+		<td>WIPRO</td>
+	</tr>
+	<tr>
+		<td> 2017</td>
+		<td> <center>45</center></td>
+		<td>TCS</td>
+	</tr>
+	<tr>
+		<td> 2018</td>
+		<td><center> 50</center></td>
+		<td>IBM</td>
+	</tr>
+	<tr>
+		<td> 2019</td>
+		<td><center> 55</center></td>
+		<td>ORACLE</td>
+	</tr>
+<tr>
+		<td> 2020</td>
+		<td><center>60</center></td>
+		<td>AMAZON</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td> <center>70</center></td>
+		<td>GOOGLE</td>
+	</tr>
+	
+	
+	
+	</table>
+
+<br />
+<br />
+
+
+<br />
+
+  </div>
+
+  <div class="content2">
+<br><span style="color:white;padding-left:20px;font-size:40px;">PACKAGE OFFERED- 12 LAKHS:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="amazon.jpg" width="80px" height="80px" align:right>  <br>
+<span style="color:white;padding-left:20px;font-size:40px;">PACKAGE OFFERED- 10 LAKHS:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="oracle.png" width="80px" height="80px" float="right"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:white;padding-left:20px;font-size:40px;">PACKAGE OFFERED- 9 LAKHS:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ibm.png" width="80px" height="80px" align:right>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:white;padding-left:20px;font-size:40px;">PACKAGE OFFERED- 6 LAKHS:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="wipro.jpg" width="80px" height="80px" align:right>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:white;padding-left:20px;font-size:40px;">PACKAGE OFFERED- 5 LAKHS:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="tcs.png" width="80px" height="80px" align:right>  <br>
+
+ </div>
+<hr>
+
+
+<table class="img">
+	
+
+	</tr>
+	<tr>
+		<td width="20%" style = "background-color : #F2B8C6;height:250px;padding-right:15px;">
+<center>
+			<a href="https://mail.google.com/mail/"><img src="about.png" width="90%" height="80%"></a><span style="font-size:25px;">CLICK HERE</span>
+</center>
+			
+		</td>
+		<td width="50%" style="background-color : #FE7F9C;padding:3px 15px 3px 5px;">
+<center>
+			
+
+
+<a href="https://www.facebook.com/"><img src="project.png" width="50%" height="30%"></a>
+
+		</center>	
+			
+		</td>
+			<td width="30%" style="background-color :#FDA4BA;padding-right:15px;">
+				
+				<a href="file.docx"><span style="font-size:30px;color:black;"><center class="hover">Download Christ file</center></span></a>
+			</td>
+
+		
+	</table>
+
+
+  <br clear="all" align="right">
+<hr>
+
+<div class="form">
+<form name="Hotel" onSubmit="return hotel()">
+      <h1><span style="padding:13px 10px 13px 500px;"><span style="background-color:indigo;color:white;font-size:35px;">FORM VALIDATION</span></span></h1><br>
+      <fieldset style="background-color:lightgreen;" class="a">
+        <center>
+
+          UID: <input type="text" name="uid" id="uid" /><br /><br />
+          Full Name : <input type="text" name="name" id="name" /><br /><br />
+          MOBILE: <input type="text" name="pn" id="pn" /><br /><br />
+          Technical Skills:
+          <input type="checkbox" value="0" name="pp" />JAVA
+          <input type="checkbox" value="1" name="pp" />PYTHON
+          <input type="checkbox" value="2" name="pp" />HTML
+          <input type="checkbox" value="3" name="pp" />CSS
+          <input type="checkbox" value="4" name="pp" />JAVASCRIPT<br /><br>
+          Degree Percentage: <input type="text" name="dp" id="dp" /><br /><br />
+          PASSOUT YEAR:<select id="branch">
+            <option value="0">2017</option>
+            <option value="1">2018</option>
+            <option value="2">2019</option>
+            <option value="3">2020</option>
+            <option value="4">2021</option>
+            </select><br /><br />
+          Job Location: <input type="text" name="jl" id="jl" /><br /><br>
+        
+         
+          <input type="submit" value="REGISTER" /><br />
+        </center>
+      </fieldset>
+    </form>
+</head>
+<br>
+<hr>
+
+<div class="dp">
+<span style="font-size:30px;">Established in 1969 as Christ College, it undertook path-breaking initiatives in Indian higher education with the introduction of innovative and modern curricula, insistence on academic discipline, imparting of Holistic Education and adoption of global higher education practices with the support of creative and dedicated staff. The University Grants Commission (UGC) of India conferred Autonomy to Christ College in 2004 and identified it as an Institution with Potential for Excellence in 2006. In 2008 under Section 3 of the UGC Act, 1956, the Ministry of Human Resource Development of the Government of India, declared the institution a Deemed to be University, in the name and style of Christ University. One of the first institutions in India to be accredited in 1998 by the NAAC, and subsequently in 2004 and 2016, CHRIST (Deemed to be University) has the top grade ‘A’ in the 4-point scale.</span>
+</div>
+<hr>
+
+<div class="laptop">
+</div>
+<hr>
+<div class="audio">
+<span style=font-size:25px;"><center><b>AUDIO:</b></center></span>
+<br>
+<embed src = "audio.mp3" width="470px" height="90px" style="background-color:;padding:0.2px 5px 3px 400px;">
+</div>
+<br>
+<hr>
+
+
+  <div class="video-back">
+<span style="font-size:40px;"><center><b>VIDEO:</b></center></span>
+    <video width="auto" height="250px" controls style="display: block; margin: auto">
+  <source src="video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+  </div>
+
+  
+
+<hr>
+</div>
+  <div class="footer">
+      
+      <ul>
+  <li>
+      <p id="z">
+  | <span style="color:darkblue;background-color:lightpink;"> PRIYANKA SP  </span>|   20191BCA0013   |  BCA |  4TH Semester  | <span style="color:teal;background-color:lightpink;"> WT FINAL EXAM |</span>
+<br>
+			<td colspan="3" align="center"><em>&copy; Presidency University, Itagalpura, Rajankunte, Bangaore-64</em></td>
+		</tr>
+
+  </p>
+  </li> </ul> 
+  </div>
+  </body>
+<script type="text/javascript">
+    function hotel() {
+      var uid = document.getElementById("uid").value;
+      var name = document.getElementById("name").value;
+      var pn = document.getElementById("pn").value;
+      var pp = document.getElementsByName("pp");
+      var dp = document.getElementById("dp").value;
+      var e = document.getElementById("branch");
+      var strUser = e.options[e.selectedIndex].value;
+      var jl = document.getElementById("jl").value;
+      var last = /(578[0-9]{3})/;
+      
+      
+
+      if (uid == "") {
+        alert("uid field empty");
+        return false;
+      }
+
+      if (uid.length < 12) {
+        alert("UID should be of more than 12 characters length");
+        return false;
+      } else {
+      for (var i = 0; i < uid.length; i++) {
+        if (!((uid.charAt(i) >= "a" && uid.charAt(i) <= "z") || (uid.charAt(i) >= "A" && uid.charAt(i) <= "Z") || (uid.charAt(i) >= "0" && uid.charAt(i) <= "9"))) {
+          alert("Enter only Number and Aplhabet in UID");
+          return false;
+        }
+      }
+    }
+      
+      if (name == "") {
+        alert(" Name field empty");
+        return false;
+      } 
+      if (pn == "") {
+        alert("mobile field empty");
+        return false;
+      }
+      if (pn.length> 10 || pn.length < 10) {
+        alert("phone number should be of 10 numbers");
+        return false;
+      } else {
+        for (i = 0; i < pn.length; i++) {
+          if (!(pn.charAt(i) >= "0" && pn.charAt(i) <= "9")) {
+            alert("enter  number only in phone field");
+            return false;
+          }
+        }
+      }
+      if (
+        pp[0].checked == false &&
+        pp[1].checked == false &&
+        pp[2].checked == false &&
+        pp[3].checked == false &&
+        pp[4].checked == false
+      ) {
+        alert("Please choose your skills");
+        return false;
+      }
+      if (dp == "") {
+        alert("degree percentage field empty");
+        return false;
+      }
+      if (dp < 75) {
+        alert("NOT ELIGIBLE,degree percentage should be greater than 75");
+        return false;
+      }
+      if(strUser==0) 
+    {
+       alert("select your year of passout");
+     return false;
+	}
+      if(jl=="")
+    {
+        alert("job location field is empty");
+       return false;
+	}
+   if (jl.length!=6)
+   {
+       alert("enter 6 digits pincode");
+   return false;
+   }
+    if (!last.test(jl))
+   {
+       alert("enter pincode starting with 578 followed by any 3 digits of your choice from 0 to 9 ");
+     return false;
+	}
+
+      alert("validation success");
+      return true;
+    }
+  </script>
+  </html>
+  
+
+  
